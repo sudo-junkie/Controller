@@ -1,0 +1,21 @@
+### Footprint positions - created on Thu Oct  5 11:29:33 2023 ###
+### Printed by KiCad version (7.0.0)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                     Package                                PosX       PosY       Rot  Side
+C404      100n                    C_0201_0603Metric                  131.3450   -99.8220  -90.0000  bottom
+C406      1u                      C_0402_1005Metric                  130.2604   -94.9544  135.0000  bottom
+C407      100n                    C_0201_0603Metric                  143.3570   -74.2100  -90.0000  bottom
+D401      3V3                     D_SOD-523                          151.9936   -99.3760  -90.0000  bottom
+D402      3V3                     D_SOD-523                          151.9936   -95.3008   90.0000  bottom
+D403      WS2812B                 LED_WS2812B-2020_PLCC4_2.0x2.0mm   141.4780   -74.1680  180.0000  bottom
+J501      Micro_SD_Card           microSD_HC_Hirose_DM3AT-SF-PEJM5   196.5440   -92.1720  -90.0000  bottom
+R401      470R                    R_0201_0603Metric                  152.2878   -97.7392  180.0000  bottom
+R402      470R                    R_0201_0603Metric                  152.2730   -97.0280    0.0000  bottom
+R404      10K                     R_0201_0603Metric                  150.4950   -80.8990  180.0000  bottom
+R405      10K                     R_0201_0603Metric                  148.7770   -80.8990  180.0000  bottom
+R406      10K                     R_0201_0603Metric                  135.4430   -80.8990    0.0000  bottom
+SW401     SW_RST                  SW_SPST_B3U-1000P                  128.7364   -96.4784  -45.0000  bottom
+SW402     SW_DWN                  SW_SPST_B3U-1000P                  153.0350   -81.7880   90.0000  bottom
+U401      ESP32-S3-WROOM-1-N16R8  ESP32-S3-WROOM-1U                  141.4780   -91.5670    0.0000  bottom
+## End
