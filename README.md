@@ -15,10 +15,10 @@ KiCad 7 design files (schematic, PCB, gerber, BOM) for a replacement PCB for the
 
 While this board has been designed to be dimensionally identical to the original PCB, a little 'hacking' on the part of the casing to make room for the USB connector, infrared transmitter/receiver and for the mounting of the toggle switch and external ESP32 antenna.
 
-![UCOM Controller](https://github.com/sudo-junkie/Controller/raw/main/IMAGES/Controller8.png)
+![UCOM Controller](https://github.com/sudo-junkie/Controller/raw/master/IMAGES/Controller8.png)
 
-![Controller Top](https://github.com/sudo-junkie/Controller/raw/main/IMAGES/Controller2.png)
+![Controller Top](https://github.com/sudo-junkie/Controller/raw/master/IMAGES/Controller2.png)
 
-![Controller Bottom](https://github.com/sudo-junkie/Controller/raw/main/IMAGES/Controller3.png)
+![Controller Bottom](https://github.com/sudo-junkie/Controller/raw/master/IMAGES/Controller3.png)
 
-![Controller Isometric](https://github.com/sudo-junkie/Controller/raw/main/IMAGES/Controller6.png)
+![Controller Isometric](https://github.com/sudo-junkie/Controller/raw/master/IMAGES/Controller6.png)
