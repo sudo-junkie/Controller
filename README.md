@@ -17,6 +17,12 @@ While this board has been designed to be dimensionally identical to the original
 
 ![UCOM Controller](https://github.com/sudo-junkie/Controller/raw/master/IMAGES/Controller8.jpg)
 
+- Original
+
+![Controller Top](https://github.com/sudo-junkie/Controller/raw/master/IMAGES/Controller9.jpg)
+  
+- Upgraded
+
 ![Controller Top](https://github.com/sudo-junkie/Controller/raw/master/IMAGES/Controller2.png)
 
 ![Controller Bottom](https://github.com/sudo-junkie/Controller/raw/master/IMAGES/Controller3.png)
